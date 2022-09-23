@@ -2,7 +2,7 @@
 This is a Netflix Clone made without any api, using Webpack, Json and Material UI
 
 ## Link
-[link]()
+[Netflix Link](https://netflix-ui-clone-1.netlify.app/)
 
 # Getting Started with Create React App
 
