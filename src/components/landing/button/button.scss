@@ -1,0 +1,12 @@
+.button-contain{
+    font-size: 17px;
+    color: rgb(100, 100, 100);
+    background: none;
+    border: 1px solid rgb(100, 100, 100);
+    padding: 7px 23px;
+}
+.button-contain:hover{
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+}
